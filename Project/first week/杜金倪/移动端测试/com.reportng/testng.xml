@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Test">
+        <classes>
+            <class name="test"> <!-- 类名-->
+                <methods>
+                    <!-- 类中的@Test中的方法名-->
+                    <include name="case1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <!-- 添加reportng-->
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+</suite>
