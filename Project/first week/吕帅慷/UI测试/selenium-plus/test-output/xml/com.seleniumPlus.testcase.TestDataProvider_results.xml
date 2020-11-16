@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.932">
+  <properties />
+  
+  
+            <testcase name="testAddMember" time="18.932" classname="com.seleniumPlus.testcase.TestDataProvider" />
+      
+</testsuite>

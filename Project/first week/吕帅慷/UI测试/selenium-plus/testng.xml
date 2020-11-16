@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <!--freemarker定制测试报告-->
+        <!--<listener class-name="com.lsk.report.freemarker.GenerateReporter" />-->
+
+        <!--selenium框架监听-->
+        <listener class-name="com.seleniumPlus.core.WebTestListener"/>
+
+        <!--reportNG测试报告-->
+        <!--<listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+        <!--<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>-->
+    </listeners>
+    <test verbose="2" name="demo">
+        <classes>
+            <class name="com.seleniumPlus.testcase.AuthorityTest">
+                <methods>
+                    <include name="testAddAdmin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
