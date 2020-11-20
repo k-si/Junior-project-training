@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="12"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="110.517">
+  <properties />
+  
+  
+            <testcase name="test_send_search_keyword3" time="8.480" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword7" time="9.079" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword8" time="9.074" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword9" time="10.838" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword5" time="8.529" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword2" time="8.550" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword6" time="8.631" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_click_search_hotword1" time="11.704" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_click_search_hotword2" time="10.092" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword10" time="8.553" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword4" time="8.494" classname="com.seleniumPlus.testcase.TestSearch" />
+                <testcase name="test_send_search_keyword1" time="8.493" classname="com.seleniumPlus.testcase.TestSearch" />
+      
+</testsuite>

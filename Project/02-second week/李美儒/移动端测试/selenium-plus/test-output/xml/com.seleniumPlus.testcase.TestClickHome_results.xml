@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="88.702">
+  <properties />
+  
+  
+            <testcase name="test_page_jump3" time="10.161" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump10" time="10.336" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump2" time="6.168" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump5" time="8.335" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump8" time="7.428" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump6" time="9.225" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump1" time="13.026" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump4" time="9.682" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump9" time="7.149" classname="com.seleniumPlus.testcase.TestClickHome" />
+                <testcase name="test_page_jump7" time="7.192" classname="com.seleniumPlus.testcase.TestClickHome" />
+      
+</testsuite>

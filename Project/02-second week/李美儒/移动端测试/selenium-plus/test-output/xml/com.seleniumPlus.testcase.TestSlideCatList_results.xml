@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="40.281">
+  <properties />
+  
+  
+            <testcase name="test_slide8" time="4.003" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide1" time="4.196" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide9" time="3.993" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide10" time="3.897" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide4" time="3.977" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide2" time="4.098" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide5" time="4.107" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide7" time="3.963" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide6" time="4.086" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+                <testcase name="test_slide3" time="3.961" classname="com.seleniumPlus.testcase.TestSlideCatList" />
+      
+</testsuite>

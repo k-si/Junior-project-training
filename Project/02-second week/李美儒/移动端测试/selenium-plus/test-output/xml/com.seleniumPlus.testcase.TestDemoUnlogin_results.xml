@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="22"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="359.484">
+  <properties />
+  
+  
+            <testcase name="test_show_number_reduce" time="16.173" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_more_home" time="14.488" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_right" time="9.442" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_start2" time="7.899" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_start3" time="6.916" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_buy_process_login_fail" time="45.072" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_buy_process2" time="22.014" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_start4" time="3.739" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_start5" time="6.779" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_buy_process3" time="19.749" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_comment_unlogin" time="4.645" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_show_number_add" time="16.800" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_more_cart_unlogin" time="18.729" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_more_back" time="12.818" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_buy_process_login_success" time="18.860" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_left" time="10.473" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_buy_process1" time="53.180" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_more_order_unlogin" time="15.681" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_buy_process4" time="20.300" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_favorite_unlogin" time="16.624" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_start1" time="7.961" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+                <testcase name="test_click_more" time="11.142" classname="com.seleniumPlus.testcase.TestDemoUnlogin" />
+      
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="132.787">
+  <properties />
+  
+  
+            <testcase name="test_buy_proccess_login" time="45.295" classname="com.seleniumPlus.testcase.TestDemologin" />
+                <testcase name="test_commont_login" time="50.919" classname="com.seleniumPlus.testcase.TestDemologin" />
+                <testcase name="test_click_favorite_unlogin" time="14.952" classname="com.seleniumPlus.testcase.TestDemologin" />
+                <testcase name="test_click_more_order" time="13.660" classname="com.seleniumPlus.testcase.TestDemologin" />
+                <testcase name="test_click_more_cart_unlogin" time="7.961" classname="com.seleniumPlus.testcase.TestDemologin" />
+      
+</testsuite>
