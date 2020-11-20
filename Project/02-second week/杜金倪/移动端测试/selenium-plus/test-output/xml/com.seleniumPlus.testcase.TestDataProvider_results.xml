@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo"
+           tests="50"
+           failures="4"
+           errors="0"
+           skipped="0"
+           time="1473.097">
+  <properties />
+            <testcase name="testOverWithdrawal" time="28.686" classname="com.seleniumPlus.testcase.TestDataProvider">
+                <failure type="java.lang.AssertionError"
+                  message="expected [true] but found [false]"
+              >
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+  org.testng.Assert.fail(Assert.java:94)
+  org.testng.Assert.failNotEquals(Assert.java:513)
+  org.testng.Assert.assertTrue(Assert.java:42)
+  org.testng.Assert.assertTrue(Assert.java:52)
+  com.seleniumPlus.testcase.TestDataProvider.testOverWithdrawal(TestDataProvider.java:200)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+  org.testng.TestRunner.privateRun(TestRunner.java:756)
+  org.testng.TestRunner.run(TestRunner.java:610)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+  org.testng.SuiteRunner.run(SuiteRunner.java:289)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+  org.testng.TestNG.runSuites(TestNG.java:1133)
+  org.testng.TestNG.run(TestNG.java:1104)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="testAgainDeleteAllWithdrawal" time="28.106" classname="com.seleniumPlus.testcase.TestDataProvider">
+                <failure type="java.lang.AssertionError"
+                  message="expected [true] but found [false]"
+              >
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+  org.testng.Assert.fail(Assert.java:94)
+  org.testng.Assert.failNotEquals(Assert.java:513)
+  org.testng.Assert.assertTrue(Assert.java:42)
+  org.testng.Assert.assertTrue(Assert.java:52)
+  com.seleniumPlus.testcase.TestDataProvider.testAgainDeleteAllWithdrawal(TestDataProvider.java:542)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+  org.testng.TestRunner.privateRun(TestRunner.java:756)
+  org.testng.TestRunner.run(TestRunner.java:610)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+  org.testng.SuiteRunner.run(SuiteRunner.java:289)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+  org.testng.TestNG.runSuites(TestNG.java:1133)
+  org.testng.TestNG.run(TestNG.java:1104)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="testAddMember" time="18.948" classname="com.seleniumPlus.testcase.TestDataProvider">
+                <failure type="java.lang.AssertionError"
+                  message="expected [true] but found [false]"
+              >
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+  org.testng.Assert.fail(Assert.java:94)
+  org.testng.Assert.failNotEquals(Assert.java:513)
+  org.testng.Assert.assertTrue(Assert.java:42)
+  org.testng.Assert.assertTrue(Assert.java:52)
+  com.seleniumPlus.testcase.TestDataProvider.testAddMember(TestDataProvider.java:120)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+  org.testng.TestRunner.privateRun(TestRunner.java:756)
+  org.testng.TestRunner.run(TestRunner.java:610)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+  org.testng.SuiteRunner.run(SuiteRunner.java:289)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+  org.testng.TestNG.runSuites(TestNG.java:1133)
+  org.testng.TestNG.run(TestNG.java:1104)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="testAgainReduction" time="25.422" classname="com.seleniumPlus.testcase.TestDataProvider">
+                <failure type="java.lang.AssertionError"
+                  message="expected [true] but found [false]"
+              >
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+  org.testng.Assert.fail(Assert.java:94)
+  org.testng.Assert.failNotEquals(Assert.java:513)
+  org.testng.Assert.assertTrue(Assert.java:42)
+  org.testng.Assert.assertTrue(Assert.java:52)
+  com.seleniumPlus.testcase.TestDataProvider.testAgainReduction(TestDataProvider.java:325)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+  org.testng.TestRunner.privateRun(TestRunner.java:756)
+  org.testng.TestRunner.run(TestRunner.java:610)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+  org.testng.SuiteRunner.run(SuiteRunner.java:289)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+  org.testng.TestNG.runSuites(TestNG.java:1133)
+  org.testng.TestNG.run(TestNG.java:1104)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="testAddTeam" time="21.808" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToNullPhone" time="32.357" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToNullBalance" time="32.129" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToUser" time="32.138" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToTeam" time="65.029" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAgainAddTeam" time="21.855" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddAdvertisingSpace" time="25.244" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAgainDelete" time="21.622" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendMessage" time="25.704" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAgainDeleteTeam" time="25.006" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddMin" time="21.683" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteMessage" time="24.975" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteAdvertisingSpace" time="29.313" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testNegativeRecharge" time="28.193" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSearchEmail" time="21.630" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToIntegral" time="42.246" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteAgainAdvertisingSpace" time="25.976" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteAdvertising" time="29.389" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddMemberAgain" time="18.630" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSearchName" time="21.622" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testWithdrawal" time="28.189" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAgainRecoveryWithdrawal" time="28.000" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddError" time="22.064" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddAdvertising" time="45.933" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToBalance" time="48.950" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testRecoveryWithdrawal" time="28.430" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testRecharge" time="28.201" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="tesAgaintRecycleBin" time="21.663" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteWithdrawal" time="82.451" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddAgainAdvertisingSpace" time="25.014" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSearchPhone" time="21.587" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteAllWithdrawal" time="38.243" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToNullTeam" time="48.628" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testRecycleBin" time="35.095" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDelete" time="21.751" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToNullIntegral" time="32.240" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteTeam" time="24.997" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToPhone" time="32.360" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAddNegativeTeam" time="21.762" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteAgainAdvertising" time="26.187" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendNullMessage" time="21.509" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSendToFailUser" time="32.162" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testDeleteNullMessage" time="21.611" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testSearchUserName" time="15.134" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testReduction" time="28.432" classname="com.seleniumPlus.testcase.TestDataProvider" />
+                <testcase name="testAgainDeleteWithdrawal" time="24.793" classname="com.seleniumPlus.testcase.TestDataProvider" />
+      
+</testsuite>
