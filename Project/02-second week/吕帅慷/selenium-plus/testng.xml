@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <!--freemarker定制测试报告-->
+        <listener class-name="com.seleniumPlus.reporter.GenerateReporter" />
+
+        <!--selenium框架监听-->
+        <listener class-name="com.seleniumPlus.core.WebTestListener"/>
+
+        <!--reportNG测试报告-->
+        <!--<listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+        <!--<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>-->
+    </listeners>
+    <test verbose="2" name="lsk" preserve-order="true">
+        <classes>
+            <class name="com.seleniumPlus.testcase.AdministratorTest">
+                <methods>
+                    <include name="testAddMultiAdmin"/>
+                    <include name="testAddAdminSuccess"/>
+                    <include name="testAddAdminByWrongName"/>
+                    <include name="testAddAdminByWrongName2"/>
+                    <include name="testAddAdminByWrongName3"/>
+                    <include name="testAddAdminByWrongPassword"/>
+                    <include name="testAddAdminByWrongPassword2"/>
+                    <include name="testAddAdminByWrongPassword3"/>
+                    <include name="testAddAdminByWrongRole"/>
+                    <include name="testAddAdminByWrongEmail"/>
+                    <include name="testAddAdminByIllegalEmail"/>
+                    <include name="testAddAdminByIllegalEmail2"/>
+                    <include name="testAddRepetitiveAdmin"/>
+                    <include name="testDeleteAdmin"/>
+                    <include name="testDeleteAdminByBatch"/>
+                    <include name="testDeleteOriginalAdmin"/>
+                    <include name="testDeleteAllAdminByBatch"/>
+                    <include name="testRestoreAdmin"/>
+                    <include name="testUpdateAdmin"/>
+                </methods>
+            </class>
+            <!--<class name="com.seleniumPlus.testcase.RoleTest">-->
+                <!--<methods>-->
+                    <!--<include name="testAddMultiRoles"/>-->
+                    <!--<include name="testAddRolesWithoutName"/>-->
+                    <!--<include name="testDeleteRole"/>-->
+                    <!--<include name="testDeleteRoles"/>-->
+                    <!--<include name="testUpdateRole"/>-->
+                    <!--<include name="testRecycleRole"/>-->
+                    <!--<include name="testRecycleRoles"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+            <!--<class name="com.seleniumPlus.testcase.PermissionTest">-->
+                <!--<methods>-->
+                    <!--<include name="testAddPermission"/>-->
+                    <!--<include name="testAddPermissionWithoutName"/>-->
+                    <!--<include name="testAddPermissionWithoutAccessCode"/>-->
+                    <!--<include name="testDeletePermission"/>-->
+                    <!--<include name="testDeleteByBatch"/>-->
+                    <!--<include name="testUpdatePermission"/>-->
+                    <!--<include name="testRestorePermission"/>-->
+                    <!--<include name="testRestorePermissions"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+            <!--<class name="com.seleniumPlus.testcase.MerchantTest">-->
+                <!--<methods>-->
+                    <!--<include name="addMerchant"/>-->
+                    <!--<include name="addMerchantByLongName"/>-->
+                    <!--<include name="addMerchantByWrongRepassword"/>-->
+                    <!--<include name="addMerchantByWrongDiscount"/>-->
+                    <!--<include name="addMerchantByWrongDiscount2"/>-->
+                    <!--<include name="addMerchantByWrongDiscount3"/>-->
+                    <!--<include name="addMerchantByWrongAccount"/>-->
+                    <!--<include name="deleteMerchant"/>-->
+                    <!--<include name="deleteMerchantByBatch"/>-->
+                    <!--<include name="restoreMerchant"/>-->
+                    <!--<include name="restoreMerchants"/>-->
+                    <!--<include name="updateMerchant"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+        </classes>
+    </test>
+</suite>
