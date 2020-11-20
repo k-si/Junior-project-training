@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45997236-3f85-4a63-acfb-1a5b530c1691" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-config" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pause</find>
+      <find>runjs</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="X:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="X:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1kAN84pnvCZ0RgwF40oOxz6veh2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605068629801" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\idea_Projects\selenium-plus\data" />
+      <recent name="D:\Java\idea_Projects\selenium-plus\src\main\java\com\seleniumPlus\dataprovider" />
+      <recent name="D:\Java\idea_Projects\selenium-plus\src\main\java\com\seleniumPlus\reporter" />
+      <recent name="D:\Java\idea_Projects\selenium-plus\src\main\java\com\seleniumPlus\testcase" />
+      <recent name="D:\Java\idea_Projects\selenium-plus\src\main\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestDataProvider.testWithdraw">
+    <configuration name="TestDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumPlus.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumPlus.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumPlus.testcase.TestDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataProvider.testAddReceiptSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumPlus.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumPlus.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumPlus.testcase.TestDataProvider" />
+      <option name="METHOD_NAME" value="testAddReceiptSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataProvider.testWithdraw" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumPlus.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumPlus.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumPlus.testcase.TestDataProvider" />
+      <option name="METHOD_NAME" value="testWithdraw" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testiwebshop.test47" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumPlus.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumPlus.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumPlus.testcase.Testiwebshop" />
+      <option name="METHOD_NAME" value="test47" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testiwebshop.test49" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumPlus.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumPlus.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumPlus.testcase.Testiwebshop" />
+      <option name="METHOD_NAME" value="test49" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestDataProvider.testWithdraw" />
+        <item itemvalue="TestNG.TestDataProvider" />
+        <item itemvalue="TestNG.TestDataProvider.testAddReceiptSuccess" />
+        <item itemvalue="TestNG.Testiwebshop.test47" />
+        <item itemvalue="TestNG.Testiwebshop.test49" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45997236-3f85-4a63-acfb-1a5b530c1691" name="Default Changelist" comment="" />
+      <created>1604980760458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604980760458</updated>
+      <workItem from="1604980763445" duration="18888000" />
+      <workItem from="1605052739108" duration="14712000" />
+      <workItem from="1605139277056" duration="12527000" />
+      <workItem from="1605246658158" duration="16889000" />
+      <workItem from="1605350174982" duration="10334000" />
+      <workItem from="1605398379248" duration="14447000" />
+      <workItem from="1605432184093" duration="479000" />
+      <workItem from="1605437931981" duration="759000" />
+      <workItem from="1605446703066" duration="65000" />
+      <workItem from="1605446804474" duration="44000" />
+      <workItem from="1605446946845" duration="177000" />
+      <workItem from="1605491423286" duration="199000" />
+      <workItem from="1605491653703" duration="11000" />
+      <workItem from="1605511086996" duration="10617000" />
+      <workItem from="1605572028087" duration="3388000" />
+      <workItem from="1605575625610" duration="3027000" />
+      <workItem from="1605602172450" duration="422000" />
+      <workItem from="1605606273483" duration="10000" />
+      <workItem from="1605659147939" duration="6410000" />
+      <workItem from="1605668470624" duration="627000" />
+      <workItem from="1605682290671" duration="10754000" />
+      <workItem from="1605697665194" duration="3350000" />
+      <workItem from="1605744245982" duration="14643000" />
+      <workItem from="1605852428657" duration="9042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="93" width="455" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605691153099">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="733" y="93" width="455" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.720@0.0.1280.720" timestamp="1605691153099" />
+    <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1605256444256">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1605256444256" />
+    <state x="425" y="245" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605142789108">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="425" y="245" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1605142789108" />
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605511167521">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1605511167521" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1605491661671">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605491661671" />
+    <state width="1237" height="215" key="GridCell.Tab.0.bottom" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.0.center" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.0.left" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.0.right" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.1.bottom" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.1.center" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.1.left" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state width="1237" height="215" key="GridCell.Tab.1.right" timestamp="1605864000526">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1605864000526" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1605141435070">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1605141435070" />
+    <state x="644" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1605852427827">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="644" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1605852427827" />
+    <state x="691" y="125" key="extract.method.dialog" timestamp="1605757000644">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="691" y="125" key="extract.method.dialog/0.0.1280.720@0.0.1280.720" timestamp="1605757000644" />
+    <state x="618" y="163" key="run.anything.popup" timestamp="1605149341006">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="618" y="163" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1605149341006" />
+    <state x="624" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1605518743966">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="624" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1605518743966" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
