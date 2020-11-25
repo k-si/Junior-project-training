@@ -1,0 +1,378 @@
+[ERROR] 2020-11-19 09:48:02,064 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given css selector expression "*[name=''name'']" is invalid: InvalidSelectorError: Document.querySelector: '*[name=''name'']' is not a valid selector: "*[name=''name'']"
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 10356, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cbaae221-ed39-4cdf-bc3a-235bec00a50a
+*** Element info: {Using=name, value='name'}
+[ERROR] 2020-11-19 09:48:42,127 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given css selector expression "*[name=''name'']" is invalid: InvalidSelectorError: Document.querySelector: '*[name=''name'']' is not a valid selector: "*[name=''name'']"
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 9420, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5cfc78d9-7d44-4561-95a5-98ff3fa62c72
+*** Element info: {Using=name, value='name'}
+[ERROR] 2020-11-19 09:55:03,602 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//input[@class='form-control' and @type='text']'" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 4996, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cfa5c8d7-9ca0-4fe0-9d0e-17860d2d3ae2
+*** Element info: {Using=xpath, value=//input[@class='form-control' and @type='text']'}
+[ERROR] 2020-11-19 10:02:21,514 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='valid-text' and @alt='商店名称必须填写']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 16224, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 245533c5-c0d5-40e1-9465-6dc3f1f69fa1
+*** Element info: {Using=xpath, value=//input[@class='valid-text' and @alt='商店名称必须填写']}
+[ERROR] 2020-11-19 10:05:07,982 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given css selector expression "*[name=''name'']" is invalid: InvalidSelectorError: Document.querySelector: '*[name=''name'']' is not a valid selector: "*[name=''name'']"
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 16992, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c62dc073-c72b-4704-8499-52a855ec876c
+*** Element info: {Using=name, value='name'}
+[WARN ] 2020-11-19 10:14:35,337 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:15:31,546 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:16:35,563 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:17:21,452 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:18:16,871 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:20:56,952 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:22:24,119 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:24:19,451 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:27:15,075 com.seleniumPlus.utils.LogUtil - //button[text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:34:54,862 com.seleniumPlus.utils.LogUtil - //button[@type='submit' and text()='保存基本设置']can't find element by prefix.
+[WARN ] 2020-11-19 10:42:57,775 com.seleniumPlus.utils.LogUtil - //input[@name='url']can't find element by prefix.
+[WARN ] 2020-11-19 10:44:05,645 com.seleniumPlus.utils.LogUtil - //input[@name='url']can't find element by prefix.
+[WARN ] 2020-11-19 10:44:55,668 com.seleniumPlus.utils.LogUtil - //input[@name='url']can't find element by prefix.
+[ERROR] 2020-11-20 09:05:51,741 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='form-control valid-text' and @type='text']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 17228, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 82c3c0f3-06ae-4c7b-b4df-9f7e1562df5e
+*** Element info: {Using=xpath, value=//input[@class='form-control valid-text' and @type='text']}
+[ERROR] 2020-11-20 09:08:28,750 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='form-control valid-text' and @type='text']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 20556, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 82e58f79-6b84-4d9d-9824-d0c2f5ec6253
+*** Element info: {Using=xpath, value=//input[@class='form-control valid-text' and @type='text']}
+[ERROR] 2020-11-20 09:11:40,961 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='form-control valid-text' and @type='text']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 20392, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a15ab1aa-4457-4c91-8023-ecd669c14c1b
+*** Element info: {Using=xpath, value=//input[@class='form-control valid-text' and @type='text']}
+[ERROR] 2020-11-20 09:11:43,241 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='form-control valid-text' and @pattern='required']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 20392, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a15ab1aa-4457-4c91-8023-ecd669c14c1b
+*** Element info: {Using=xpath, value=//input[@class='form-control valid-text' and @pattern='required']}
+[ERROR] 2020-11-20 10:34:55,344 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[@name='reg_option' and @value = '1']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 12444, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2ccf3406-6b1a-46d6-bf88-23e3967644ea
+*** Element info: {Using=xpath, value=input[@name='reg_option' and @value = '1']}
+[ERROR] 2020-11-20 10:39:14,539 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[@name='reg_option' and @value = '1']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 8756, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a0035f81-fe9d-41b8-a252-df35ceff3800
+*** Element info: {Using=xpath, value=input[@name='reg_option' and @value = '1']}
+[ERROR] 2020-11-20 10:45:35,633 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[@name='reg_option' and @value = '1']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14148, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1e77b8aa-f696-4e44-b132-a88a3adb4d67
+*** Element info: {Using=xpath, value=input[@name='reg_option' and @value = '1']}
+[ERROR] 2020-11-20 10:45:48,512 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[name='email']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14148, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1e77b8aa-f696-4e44-b132-a88a3adb4d67
+*** Element info: {Using=xpath, value=//input[name='email']}
+[ERROR] 2020-11-20 10:45:48,520 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[name='email']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14148, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1e77b8aa-f696-4e44-b132-a88a3adb4d67
+*** Element info: {Using=xpath, value=//input[name='email']}
+[ERROR] 2020-11-20 10:46:50,885 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[@name='reg_option' and @value = '1']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 20092, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d59653a7-6e6f-472d-8645-ec69f76ad692
+*** Element info: {Using=xpath, value=input[@name='reg_option' and @value = '1']}
+[ERROR] 2020-11-20 10:49:10,202 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[@name='reg_option' and @value = '1']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 19800, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 37ea6482-44f9-426c-8465-c539273a3564
+*** Element info: {Using=xpath, value=input[@name='reg_option' and @value = '1']}
+[ERROR] 2020-11-20 10:52:26,242 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: input[@name='reg_option' and @value = '1']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 3888, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 670a4930-cfba-4736-b997-f26e9a3ad982
+*** Element info: {Using=xpath, value=input[@name='reg_option' and @value = '1']}
+[ERROR] 2020-11-20 11:23:48,146 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()='账户余额']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 19508, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d38c5fc-a151-403d-b965-51a8ccb1e595
+*** Element info: {Using=xpath, value=//a[text()='账户余额']}
+[ERROR] 2020-11-20 11:23:48,179 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()='提现申请']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 19508, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d38c5fc-a151-403d-b965-51a8ccb1e595
+*** Element info: {Using=xpath, value=//a[text()='提现申请']}
+[ERROR] 2020-11-20 11:23:48,187 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //section[@class='user_form']/form[@name='withdraw']/dl[2]/dd/span
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 19508, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7d38c5fc-a151-403d-b965-51a8ccb1e595
+*** Element info: {Using=xpath, value=//section[@class='user_form']/form[@name='withdraw']/dl[2]/dd/span}
+[ERROR] 2020-11-20 11:25:50,360 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()='账户余额']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 13244, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 941de1f8-78cc-4a6b-a4c8-8b06ad257384
+*** Element info: {Using=xpath, value=//a[text()='账户余额']}
+[ERROR] 2020-11-20 11:25:50,371 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()='提现申请']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 13244, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 941de1f8-78cc-4a6b-a4c8-8b06ad257384
+*** Element info: {Using=xpath, value=//a[text()='提现申请']}
+[ERROR] 2020-11-20 11:25:50,381 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //section[@class='user_form']/form[@name='withdraw']/dl[2]/dd/span
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 13244, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 941de1f8-78cc-4a6b-a4c8-8b06ad257384
+*** Element info: {Using=xpath, value=//section[@class='user_form']/form[@name='withdraw']/dl[2]/dd/span}
+[WARN ] 2020-11-20 14:36:36,094 com.seleniumPlus.utils.LogUtil - xpath//select[@name='pc']/option[text()='锦绣前程【锦绣前程-黑色皮肤】']can't find element by prefix.
+[WARN ] 2020-11-20 14:38:14,177 com.seleniumPlus.utils.LogUtil - xpath//select[@name='pc']/option[text()='锦绣前程【锦绣前程-黑色皮肤】']can't find element by prefix.
+[WARN ] 2020-11-20 14:39:58,099 com.seleniumPlus.utils.LogUtil - xpath//select[@name='pc']/option[text()='锦绣前程【锦绣前程-黑色皮肤】']can't find element by prefix.
+[WARN ] 2020-11-20 14:44:25,729 com.seleniumPlus.utils.LogUtil - xpath//select[@name='pc']/option[text()='DM后台主题【默认皮肤】']can't find element by prefix.
+[WARN ] 2020-11-20 14:47:19,778 com.seleniumPlus.utils.LogUtil - xpath//select[@name='pc']/option[text()='iWebShop商家管理后台【蓝色】']can't find element by prefix.
+[ERROR] 2020-11-20 15:02:37,175 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given xpath expression "/index.php?controller=system&action=payment_edit&id=2" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 16968, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1822d0e5-11b9-43ce-8ca2-084c570a6fd9
+*** Element info: {Using=xpath, value=/index.php?controller=system&action=payment_edit&id=2}
+[ERROR] 2020-11-20 15:02:39,353 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name='status' and @value='0']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 16968, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1822d0e5-11b9-43ce-8ca2-084c570a6fd9
+*** Element info: {Using=xpath, value=//input[@name='status' and @value='0']}
+[ERROR] 2020-11-20 15:02:39,360 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //button[@class='btn btn-primary']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 16968, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1822d0e5-11b9-43ce-8ca2-084c570a6fd9
+*** Element info: {Using=xpath, value=//button[@class='btn btn-primary']}
+[ERROR] 2020-11-20 15:05:06,984 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given xpath expression "/index.php?controller=system&action=payment_edit&id=2" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 4644, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2a96e15-f841-4c4e-8f9f-46a5ebe974e2
+*** Element info: {Using=xpath, value=/index.php?controller=system&action=payment_edit&id=2}
+[ERROR] 2020-11-20 15:05:06,996 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name='status' and @value='0']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 4644, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2a96e15-f841-4c4e-8f9f-46a5ebe974e2
+*** Element info: {Using=xpath, value=//input[@name='status' and @value='0']}
+[ERROR] 2020-11-20 15:05:07,003 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //button[@class='btn btn-primary']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 4644, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2a96e15-f841-4c4e-8f9f-46a5ebe974e2
+*** Element info: {Using=xpath, value=//button[@class='btn btn-primary']}
+[ERROR] 2020-11-20 15:05:07,011 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //table/tbody/tr[2]/td[4]/span[@class='text-green']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 4644, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a2a96e15-f841-4c4e-8f9f-46a5ebe974e2
+*** Element info: {Using=xpath, value=//table/tbody/tr[2]/td[4]/span[@class='text-green']}
+[ERROR] 2020-11-20 15:06:02,944 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//index.php?controller=system&action=payment_edit&id=2" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 18828, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5ea7b589-8bfb-41a4-9066-fd0b2c73c89f
+*** Element info: {Using=xpath, value=//index.php?controller=system&action=payment_edit&id=2}
+[ERROR] 2020-11-20 15:06:02,954 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name='status' and @value='0']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 18828, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5ea7b589-8bfb-41a4-9066-fd0b2c73c89f
+*** Element info: {Using=xpath, value=//input[@name='status' and @value='0']}
+[ERROR] 2020-11-20 15:06:02,963 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //button[@class='btn btn-primary']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 18828, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5ea7b589-8bfb-41a4-9066-fd0b2c73c89f
+*** Element info: {Using=xpath, value=//button[@class='btn btn-primary']}
+[ERROR] 2020-11-20 15:06:02,969 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //table/tbody/tr[2]/td[4]/span[@class='text-green']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 18828, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5ea7b589-8bfb-41a4-9066-fd0b2c73c89f
+*** Element info: {Using=xpath, value=//table/tbody/tr[2]/td[4]/span[@class='text-green']}
+[ERROR] 2020-11-20 15:07:00,407 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[href='index.php?controller=system&action=payment_edit&id=2']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14232, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d9e6b21a-3587-4ee4-b82a-46c0339e5528
+*** Element info: {Using=xpath, value=//a[href='index.php?controller=system&action=payment_edit&id=2']}
+[ERROR] 2020-11-20 15:07:00,417 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name='status' and @value='0']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14232, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d9e6b21a-3587-4ee4-b82a-46c0339e5528
+*** Element info: {Using=xpath, value=//input[@name='status' and @value='0']}
+[ERROR] 2020-11-20 15:07:00,423 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //button[@class='btn btn-primary']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14232, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d9e6b21a-3587-4ee4-b82a-46c0339e5528
+*** Element info: {Using=xpath, value=//button[@class='btn btn-primary']}
+[ERROR] 2020-11-20 15:07:00,429 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //table/tbody/tr[2]/td[4]/span[@class='text-green']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14232, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d9e6b21a-3587-4ee4-b82a-46c0339e5528
+*** Element info: {Using=xpath, value=//table/tbody/tr[2]/td[4]/span[@class='text-green']}
+[ERROR] 2020-11-20 15:12:20,578 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='form-control valid-text']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 17004, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7e1cfab7-8918-4f54-9951-89be294eb056
+*** Element info: {Using=xpath, value=//input[@class='form-control valid-text']}
+[ERROR] 2020-11-20 15:13:47,934 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@class='form-control valid-text']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 20112, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e9b75cae-9664-436e-8e12-64c98bbe7198
+*** Element info: {Using=xpath, value=//input[@class='form-control valid-text']}
+[ERROR] 2020-11-20 17:07:17,597 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='footer']/p[3]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 7184, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f7354345-4389-4ed5-a85f-9a1470ff769d
+*** Element info: {Using=xpath, value=//div[@class='footer']/p[3]}
+[ERROR] 2020-11-20 19:35:07,858 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='footer']/p[3]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 3988, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b5f26360-d3dd-41fc-93b9-a295fe544c5d
+*** Element info: {Using=xpath, value=//div[@class='footer']/p[3]}
+[ERROR] 2020-11-20 19:36:52,497 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='footer']/p[3]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 17944, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: aafa8c0d-b662-42f5-804e-f7ead6b4ba03
+*** Element info: {Using=xpath, value=//div[@class='footer']/p[3]}
+[ERROR] 2020-11-20 20:31:52,376 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //table/tbody/tr[2]/td[4]/span[@class='text-green']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14216, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e0a9cb21-d7e2-4a24-92b4-f61a35e12a15
+*** Element info: {Using=xpath, value=//table/tbody/tr[2]/td[4]/span[@class='text-green']}
+[ERROR] 2020-11-20 20:33:40,237 com.seleniumPlus.utils.LogUtil - org.openqa.selenium.NoSuchElementException: Unable to locate element: //table/tbody/tr[2]/td[3]/span[@class='text-green']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2503HJQ', ip: '172.18.30.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 82.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201108180448, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 18860, moz:profile: C:\Users\lengtong\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e1cfc81c-b0a6-4ecb-ac25-4a478a847f0d
+*** Element info: {Using=xpath, value=//table/tbody/tr[2]/td[3]/span[@class='text-green']}
