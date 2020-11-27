@@ -1,0 +1,12 @@
+移动端测试：
+前两个阶段已经完成
+在本机部署了Jenkins环境
+正在准备第三阶段，属于知识学习阶段
+学习了vue.js+SpringBoot项目实战+mybatis
+web测试：
+黑盒测试用例
+探索性测试用例
+iwebshop测试计划
+iwebshop测试报告
+iwebshop测试总结
+禅道进行管理测试用例
