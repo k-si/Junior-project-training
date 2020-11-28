@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.dao.StudentDao">
+    <!--
+        parameterType:接口中方法参数的数据类型。
+        parameterType值是java数据类型的的全限定名称或是mybatis定义的别名
+        parameterType不是强制的，mybatis通过反射机制能够发现接口参数的数据类型
+    -->
+    <select id="selectStudentById" parameterType="java.lang.Integer" resultType="stu">
+        select id,name ,email,age from  student where id=#{id}
+    </select>
+    <!--多个参数-->
+    <select id="selectMultiParam" resultType="org.example.domain.Student">
+        select id,name,email,age from student where name=#{myname} or age=#{myage};
+    </select>
+    <!--多个参数，使用java对象的属性值，作为参数的实际值
+        使用对象语法：#{属性名，javaType=类型名称，jdbcType=数据类型}
+        javaType:指java中的属性数据类型
+        jdbcType：在数据库中的数据类型
+        例如#{paramName,javaType=java.lang,String,jdbcType=VARCHAR}
+
+        简化方式：#{属性名}，javaType,jdbcType的值能通过mybatis反射获取
+    -->
+<!--    <select id="selectMultiObject" resultType="org.example.domain.Student">-->
+<!--        select id,name,email,age from student where-->
+<!--        name=#{paramName,javaType=java.lang.String,jdbcType=VARCHAR}-->
+<!--        or age=#{paramAge,javaType=java.lang.Integer,jdbcType=VARCHAR};-->
+<!--    </select>-->
+    <!--多个参数使用java对象-->
+    <select id="selectMultiObject" resultType="org.example.domain.Student">
+        select id,name,email,age from student where
+        name=#{paramName} or age=#{paramAge};
+    </select>
+    <!--多个参数使用位置-->
+    <select id="selectMultiPosition" resultType="org.example.domain.Student">
+        select id,name,email,age from student where
+        name=#{arg0} or age=#{arg1};
+    </select>
+    <!--多个参数使用Map,使用语法#{map的key}-->
+    <select id="selectMutiByMap" resultType="org.example.domain.Student">
+        select id,name,email,age from student where
+        name=#{myname} or age=#{myage};
+    </select>
+    <!--
+        使用resultMap
+        1)先定义resultMap
+        2)在select标签使用resultMap来引用1定义的。
+    -->
+    <!--
+        定义resultMap
+        id：自定义名称，表示你定义的这个resultMap
+        type：java类型的全限定名称
+    -->
+    <resultMap id="studentMap" type="org.example.domain.Student">
+        <!--列名和java属性的关系-->
+        <!--主键列，使用id标签
+            column：列名
+            property：java类型的属性名
+        -->
+        <id column="id" property="id"/>
+        <!--非主键列，使用result-->
+        <result column="name" property="name"/>
+        <result column="email" property="email"/>
+        <result column="age" property="age"/>
+
+
+    </resultMap>
+    <select id="selectAllStudents" resultMap="studentMap">
+        select id,name,email,age from student
+    </select>
+
+    <!--列名和属性名不一样：第二种方式
+        resultType的默认原则是 同名的列值赋值给同名的属性，使用列别名(java对象的属性名)
+    -->
+</mapper>
+    
