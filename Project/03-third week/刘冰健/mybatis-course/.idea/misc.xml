@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-proxy-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-params/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-dynamic-sql/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.dao.StudentDao">
+    <!--
+        <if:test="使用参数java对象的属性值作为判断条件，语法：属性=xxx值>
+    -->
+    <select id="selectStudentIf" resultType="org.example.domain.Student">
+        select id,name,age,email from student
+        where 1=1//防止当name为空时sql语句报错
+        <if test="name != null and name !='' ">
+            name = #{name}
+        </if>
+        <if test="age > 0">
+            or age > #{age}
+        </if>
+    </select>
+    <!--
+        <where>用来包含多个<if>的，当多个if有一个成立的，<where>会自动增加一个where关键字，并去掉
+        if中多余的and，or等
+    -->
+
+    <select id="selectStudentWhere" resultType="org.example.domain.Student">
+        select id,name,age,email from student
+        <where>
+            <if test="name != null and name !='' ">
+                name = #{name}
+            </if>
+            <if test="age > 0">
+                or age > #{age}
+            </if>
+        </where>
+
+    </select>
+
+</mapper>
+    
