@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--spring默认单例模式-->
+    <!--p命名空间注入，可以直接注入属性的值：property-->
+    <bean id="user" class="com.ch.pojo.User" p:name="秦疆" p:age="22" scope="singleton"/>
+
+    <!--原型模式：每次从容器中get的时候，都会产生一个新的对象-->
+    <!--c命名空间注入，通过构造器注入：constructs-->
+    <bean id="user2" class="com.ch.pojo.User"  c:name="秦疆" c:age="18" scope="prototype"/>
+</beans>

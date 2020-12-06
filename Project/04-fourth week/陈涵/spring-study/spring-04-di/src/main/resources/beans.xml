@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="address" class="com.ch.pojo.Address">
+        <property name="address" value="石家庄"/>
+    </bean>
+    <bean id="student" class="com.ch.pojo.Student">
+        <!--普通值注入，value-->
+        <property name="name" value="秦疆"/>
+
+        <!--Bean注入,ref-->
+        <property name="address" ref="address"/>
+
+        <!--数组-->
+        <property name="books">
+            <array>
+                <value>三国</value>
+                <value>水浒</value>
+                <value>西游</value>
+            </array>
+        </property>
+
+        <!--list-->
+        <property name="hobbies">
+            <list>
+                <value>听歌</value>g[]=
+                <value>敲代码</value>
+            </list>
+        </property>
+
+        <!--map-->
+        <property name="card">
+            <map>
+                <entry value="身份证" key="123456"/>
+                <entry value="银行卡" key="123456"/>
+            </map>
+        </property>
+
+        <!--set-->
+        <property name="games">
+            <set>
+                <value>LOL</value>
+            </set>
+        </property>
+
+        <!--null-->
+        <property name="wife">
+            <null/>
+        </property>
+
+        <!--properties-->
+        <property name="info">
+            <props>
+                <prop key="driver">20201125</prop>
+                <prop key="url">baidu.com</prop>
+            </props>
+        </property>
+    </bean>
+</beans>
